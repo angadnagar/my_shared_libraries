@@ -1,3 +1,3 @@
 def call(){
-  sh 'this is normal npm i shared library'
+  echo "this is normal npm i shared library"
 }
